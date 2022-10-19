@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class WeaponType {
+public enum WeaponType {
+    GUNSHOT,MAGIC,TWO_HANDED
+
 }
